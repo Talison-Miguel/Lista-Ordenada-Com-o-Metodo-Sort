@@ -56,7 +56,7 @@ Lista ordenada em ordem alfabetica com o metodo sort com javaScript
 Para copiar o projeto, utilize os comandos:
 
 ```bash
-  ❯ git clone https://github.com/Talison-Miguel/Carregando-imagens-rolando.git
+  ❯ git clone https://github.com/Talison-Miguel/Lista-Ordenada-Com-o-Metodo-Sort.git
 ```
 
 ---
